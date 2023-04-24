@@ -8,7 +8,7 @@ public class HinhTron {
     float chu_vi;
     float dien_tich;
 
-    //Ban Kinh
+    //Ban  Kinh
     void NhapBanKinh(){
         System.out.print("Nhap ban kinh r: ");
         ban_kinh=scanner.nextFloat();
